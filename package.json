@@ -1,0 +1,8 @@
+{
+  "name": "hydra-easing",
+  "version": "0.1.0",
+  "description": "Easing functions for Hydra",
+  "main": "index.js",
+  "author": "munshkr",
+  "license": "MIT"
+}
